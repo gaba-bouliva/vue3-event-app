@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/Real-World_Vue-3/' : '/'
+  publicPath: process.env.NODE_ENV === 'production' ? '/vue3-event-app /' : '/'
 }
